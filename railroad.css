@@ -1,0 +1,64 @@
+body
+{
+    font: 11px tahoma, arial;
+    margin: 0px;
+    padding: 0px;
+    background: #e4e5ec
+        url(images/bg1.gif) repeat-x;
+}
+#wrapper
+{
+	margin: 0 auto;
+	width: 766px
+}
+table {
+    
+}
+table.tmain {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+td {
+    text-align: center;
+}
+th {
+    
+}
+caption {
+    font-weight: bold;
+}
+#header1
+{
+    background: url(images/top01.gif) no-repeat;
+        height: 225px;
+}
+#header2
+{
+    background: url(images/top02.gif) no-repeat;
+    height: 40px;
+    text-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-left: 300px;
+    padding-top: 10px;
+}
+#header2 a:link
+{
+    color: #FFFFFF;
+}
+#content
+{
+    background: url(images/bg.gif) repeat-y;
+    margin-left: 25px;
+    color: #7b7b7b;
+    margin: 25px;
+}
+#footer
+{
+    background: url(images/bottombg.gif) repeat-x;
+    height: 27px;
+    color: #AAAEC4;
+    padding-top: 16px;
+    padding-left: 10px;
+}
